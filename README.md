@@ -368,7 +368,7 @@ Installer les prérequis si nécéssaire
 Télécharger le dossier .zip du projet 
 ou l'importer (voir ci dessous)
  - Lancer le gitBash à l'emplacement ou vous voulez importez le projet (click Droit "Git Bash Here")
- - Lancer la commande "git clone https://github.com/DethierY/GEDESAFT.git"
+ - Lancer la commande "git clone https://github.com/nwardez/gedesaftBACK.git"
  
 ## CONFIGURATION TECHNIQUE
 
@@ -386,7 +386,7 @@ importer les données (avec le fichier [data.sql](BDD/data.sql) présent dans le
 L'application étant séparée en deux parties, il faut les démarrer toutes les deux pour que l'application fonctionne
 
 ### Lancer l'application Springboot
-Cloner ou télécharger le dossier back-end https://github.com/DethierY/GEDESAFT.git
+Cloner ou télécharger le dossier back-end https://github.com/nwardez/gedesaftBACK.git
   
     Créer un .jar et le lancer: 
     
@@ -398,7 +398,7 @@ Cloner ou télécharger le dossier back-end https://github.com/DethierY/GEDESAFT
 	  
 ### Lancer l'application Angular
 Ce projet a été généré avec Angular CLI 1.6.5
-Cloner ou télécharger le dossier front-end https://github.com/DethierY/FilRougeV2Front.git
+Cloner ou télécharger le dossier front-end https://github.com/nwardez/gedesaftFRONT.git
 
 Dans le dossier du front, lancer une ligne de commande
  - npm install
